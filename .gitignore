@@ -34,3 +34,8 @@ coverage/
 .vite/
 .turbo/
 *.tsbuildinfo
+
+# --- 本项目 ---
+cborbench.db
+cborbench.db-*
+!go.sum
